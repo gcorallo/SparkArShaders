@@ -1,6 +1,6 @@
 # ArSparkShaders
 
-Visual shaders experiments in Ar Spark/Ar Studio.
+Visual shaders experiments in Ar Spark/Ar Studio. v48.0.0, SDK v48.0
 
 ### AspectCorrCircle
 
@@ -29,6 +29,7 @@ Just a spiral shape.
 ###TexDivideColor
 
 Tile texture with colors by row/column.
+(https://user-images.githubusercontent.com/1738321/47680944-fb2ec300-dba6-11e8-8e27-95606c6d1905.png)
 
 ### Utils
 * BaseCamTexProject
