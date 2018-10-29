@@ -29,7 +29,8 @@ Just a spiral shape.
 ###TexDivideColor
 
 Tile texture with colors by row/column.
-(https://user-images.githubusercontent.com/1738321/47680944-fb2ec300-dba6-11e8-8e27-95606c6d1905.png)
+
+![tile texture](https://user-images.githubusercontent.com/1738321/47680944-fb2ec300-dba6-11e8-8e27-95606c6d1905.png)
 
 ### Utils
 * BaseCamTexProject
