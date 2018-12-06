@@ -10,7 +10,7 @@ Aspect corrected circle.
 
 ### CircleMask
 
-Circle shaped mask.
+Circle shaped mask. Long-press to move circle position.
 
 ![circleMask](https://user-images.githubusercontent.com/1738321/47683208-b22e3d00-dbad-11e8-8265-87898e8bee00.png)
 
@@ -48,6 +48,7 @@ Tile texture with colors by row/column.
 ![tile texture](https://user-images.githubusercontent.com/1738321/47680944-fb2ec300-dba6-11e8-8e27-95606c6d1905.png)
 
 ### Utils
+* segmentation2D
 * BaseCamTexProject
 * TexDivide
 * zoomCoords
