@@ -1,6 +1,6 @@
 # ArSparkShaders
 
-Visual shaders experiments in Ar Spark/Ar Studio. v48.0.0, SDK v48.0
+Visual shaders experiments in Spark AR Studio. v50.0.0.
 
 ### AspectCorrCircle
 
@@ -49,6 +49,7 @@ Tile texture with colors by row/column.
 
 ### Utils
 * segmentation2D
+
 ![segmentation 2d](https://user-images.githubusercontent.com/1738321/49595728-6498b300-f957-11e8-8fd3-0cfdd5e2706f.png)
 
 * BaseCamTexProject
