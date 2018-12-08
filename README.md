@@ -48,6 +48,11 @@ Tile texture with colors by row/column.
 ![tile texture](https://user-images.githubusercontent.com/1738321/47680944-fb2ec300-dba6-11e8-8e27-95606c6d1905.png)
 
 ### Utils
+
+* BrightContrast
+
+![brightness contrast](https://user-images.githubusercontent.com/1738321/49687632-a1de7b80-fae4-11e8-8cbb-5e5dbec6658b.png)
+
 * segmentation2D
 
 ![segmentation 2d](https://user-images.githubusercontent.com/1738321/49595728-6498b300-f957-11e8-8fd3-0cfdd5e2706f.png)
