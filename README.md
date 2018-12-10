@@ -2,6 +2,12 @@
 
 Visual shaders experiments in Spark AR Studio. v50.0.0.
 
+### halftoneMono
+
+halftone, pan horizontally to change size.
+
+![halftone](https://user-images.githubusercontent.com/1738321/49737646-23ace100-fc6c-11e8-90d3-bb37fb7aa3f8.png)
+
 ### AspectCorrCircle
 
 Aspect corrected circle.
