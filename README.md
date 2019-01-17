@@ -2,6 +2,13 @@
 
 Visual shaders experiments in Spark AR Studio. v50.0.0.
 
+### hueCycle
+
+hue gradient.
+
+![hue cycle](https://user-images.githubusercontent.com/1738321/51322220-91a2b000-1a43-11e9-8343-4dc315536907.png)
+
+
 ### halftoneMono
 
 halftone, pan horizontally to change size.
