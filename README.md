@@ -1,6 +1,9 @@
 # ArSparkShaders
 
-Visual shaders experiments in Spark AR Studio. v50.0.0.
+Visual shaders experiments in Spark AR Studio. v50-v58.
+
+mostly patches (now starting with scripting).
+
 
 ### hueCycle
 
@@ -59,6 +62,13 @@ Just a spiral shape.
 Tile texture with colors by row/column.
 
 ![tile texture](https://user-images.githubusercontent.com/1738321/47680944-fb2ec300-dba6-11e8-8e27-95606c6d1905.png)
+
+### zoomScript [script]
+
+texture zoom animation.
+
+![zoomcoord](https://user-images.githubusercontent.com/1738321/55670753-9b77ca80-585e-11e9-9c13-138c28196b50.gif)
+
 
 ### Utils
 
