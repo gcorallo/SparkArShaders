@@ -69,6 +69,11 @@ texture zoom animation.
 
 ![zoomcoord](https://user-images.githubusercontent.com/1738321/55670753-9b77ca80-585e-11e9-9c13-138c28196b50.gif)
 
+### voronoi [script]
+
+Voronoi shader, based on the one from thebookofshaders: https://thebookofshaders.com/12/
+
+![voronoi](https://user-images.githubusercontent.com/1738321/58769134-40bad080-857a-11e9-93f3-f3daf39330c0.png)
 
 ### Utils
 
